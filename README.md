@@ -1,6 +1,11 @@
 # hello-world
-my first repository
 
-Hi,
+input[Three Rings for the Elven-kings under the sky,
+Seven for the Dwarf-lords in their halls of stone,
+Nine for Mortal Men doomed to die,
+One for the Dark Lord on his dark throne
+In the Land of Mordor where the Shadows lie.]
 
-I´m Markus from Germany, I´m 35 and now try to learn coding
+
+print("One Ring to rule them all, One Ring to find them,
+One Ring to bring them all and in the darkness bind them")
